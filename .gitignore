@@ -1,2 +1,3 @@
-/cache/
-/config/development/
+*.bat
+*.sh
+backup/

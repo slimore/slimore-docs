@@ -1,2 +1,3 @@
-# slimore-docs
-Slimore documents for developer
+# Slimore docs
+
+Slimore documents for developer. come soon...
